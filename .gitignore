@@ -1,0 +1,26 @@
+# OS / editor
+.DS_Store
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Next.js
+.next/
+out/
+node_modules/
+.vercel/
+.env
+.env.*
+!.env.example
+
+# .NET
+**/bin/
+**/obj/
+*.user
+*.suo
+
+# Python
+__pycache__/
+*.pyc
+.venv/
